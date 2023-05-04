@@ -14,14 +14,14 @@ git clone https://github.com/ImYan16/MessageMe-App
 ```
 ### Install Server Dependencies
 ```bash
-cd server/
-npm install
+  cd server/
+  npm install
 ```
 ### In the Server Directory there's an .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
 ### Start the Server
 ```bash
-cd server/
-yarn start
+  cd server/
+  yarn start
 ```
 ### Start the Client
 ```bash
