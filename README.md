@@ -1,7 +1,7 @@
 # MessageMe-App
 ## Steps to start the Application
 ### Clone the project
-  git clone https://github.com/ImYan16/MessageMe-App
+[I'm an inline-style link]  git clone https://github.com/ImYan16/MessageMe-App
 ### Go to the project directory
   cd MessageMe-App
 ### Install Public Dependencies 
